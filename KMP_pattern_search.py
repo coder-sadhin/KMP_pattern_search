@@ -15,3 +15,5 @@ def KMP_pattern_search(pattern, text):
 
     # index for text[]
     i=0
+
+    
